@@ -1,3 +1,9 @@
+## 0.1.2 (2026-09-15)
+
+### Fix
+
+- **test-of-specific-type**: tetsin that patch version
+
 ## 0.1.1 (2026-09-10)
 
 ### Refactor
