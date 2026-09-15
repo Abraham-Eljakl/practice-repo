@@ -1,3 +1,13 @@
+## 1.0.0 (2026-09-15)
+
+### BREAKING CHANGE
+
+- changing the major test
+
+### Feat
+
+- **testing-major**: major change testing
+
 ## 0.3.0 (2026-09-15)
 
 ### BREAKING CHANGE
