@@ -1,3 +1,9 @@
+## 0.2.0 (2026-09-15)
+
+### Feat
+
+- **test**: testing minor ver change
+
 ## 0.1.3 (2026-09-15)
 
 ### Refactor
