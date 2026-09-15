@@ -1,3 +1,13 @@
+## 0.3.0 (2026-09-15)
+
+### BREAKING CHANGE
+
+- tetsing major change
+
+### Feat
+
+- **test**: testing major flag
+
 ## 0.2.0 (2026-09-15)
 
 ### Feat
