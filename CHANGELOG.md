@@ -1,3 +1,9 @@
+## 0.1.3 (2026-09-15)
+
+### Refactor
+
+- **config**: add missing commitzne config file
+
 ## 0.1.1 (2026-09-10)
 
 ### Refactor
